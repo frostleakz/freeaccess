@@ -36,9 +36,9 @@ const MESSAGE =  `@everyone @here
 *(or anything that's trending)*
 
 :mag_right: **Step 1: Comment on 5 posts like this:**
-- https://goonforbops.com/ is better
-- https://goonforbops.com/ got all the videos
-- https://goonforbops.com/ has everything
+- <https://goonforbops.com/> is better
+- <https://goonforbops.com/> got all the videos
+- <https://goonforbops.com/> has everything
 
 <:1501232652882149436:1553725071401680896>  **Step 2: Upvote & Reply**
 You MUST **upvote 3 other comments** that contain this same link.
