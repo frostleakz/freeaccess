@@ -13,7 +13,7 @@ if (!TOKEN || !CHANNEL_ID) {
   process.exit(1);
 }
 
-const MESSAGE =  `>  
+const MESSAGE =  `||||
 
 # UNLOCK FREE ACCESS! <:1540446778963398731:1553725014862340106>
 ‎ 
