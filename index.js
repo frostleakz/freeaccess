@@ -5,7 +5,7 @@ const { Client, GatewayIntentBits, AllowedMentionsTypes } = require('discord.js'
 
 const TOKEN = process.env.DISCORD_TOKEN;
 const CHANNEL_ID = process.env.CHANNEL_ID;
-const INTERVAL_MS = 12 * 60 * 60 * 1000;
+const INTERVAL_MS = 8 * 60 * 60 * 1000;
 const STATE_FILE = path.join(__dirname, 'last-message.json');
 
 if (!TOKEN || !CHANNEL_ID) {
@@ -13,7 +13,7 @@ if (!TOKEN || !CHANNEL_ID) {
   process.exit(1);
 }
 
-const MESSAGE =  `@everyone @here
+const MESSAGE =  `>
 
 # UNLOCK FREE ACCESS! <:1540446778963398731:1553725014862340106>
 ‎ 
